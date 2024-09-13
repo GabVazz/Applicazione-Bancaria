@@ -1,5 +1,8 @@
 # Applicazione-Bancaria
-Applicazione web realizzata con spring boot ed esposizione API. Questo progetto simula una realtà di applicazione bancaria, nella quale vengono gestiti i vari utenti, i loro conti, le loro carte, prestiti, trasferimenti di denaro. 
+Progetto di gruppo Accademico
+Applicazione web realizzata con spring boot ed esposizione API. Questo progetto simula una realtà di applicazione bancaria, nella quale vengono gestiti i vari utenti, i loro conti, le loro carte, prestiti, trasferimenti di denaro.
+
+Link repository: https://github.com/WarrenBuffer/Applicazione-Bancaria
 
 La parte del client è stata sviluppata con html e thymeleaf, mentre la parte dell’admin con angular che utilizza le funzionalità esposte dal rest controller sviluppato tramite spring boot.
 
